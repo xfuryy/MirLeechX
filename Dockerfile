@@ -1,4 +1,4 @@
-FROM ghcr.io/breakdowns/mega-sdk-python:latest
+FROM xfuryy/tgmb-mega-sdk:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
