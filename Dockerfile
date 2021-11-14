@@ -1,4 +1,4 @@
-FROM xfuryy/tgmb-mega-sdk:latest
+FROM xfuryy/tgmb-mega-sdk:build0
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
